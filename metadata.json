@@ -1,0 +1,6 @@
+{
+  "name": "SUBSCRIBO",
+  "description": "Manage your subscriptions. One place. Zero hassle. Complete subscription management system with user and admin dashboards, plans, simulated payments, and renewals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
